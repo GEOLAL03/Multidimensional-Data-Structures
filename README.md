@@ -15,6 +15,7 @@ Required Libraries for Code Execution:
 •	rtree.index
 •	matplotlib.pyplot
 •	numpy
+Replace with your own file path before execution.
 
 The CSV file was downloaded from the Coffee Reviews Dataset on Kaggle.com
 https://www.kaggle.com/datasets/schmoyote/coffee-reviews-dataset
